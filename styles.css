@@ -1,0 +1,124 @@
+body {
+  color: #fff;
+  font-family: cursive;
+}
+
+#header-nav {
+	background-color: #9c9995;
+  border-radius: 0;
+  border-color: #000;
+  border-style: solid;
+  border-width: 2px;
+}
+
+#ato-nav {
+  height: 60px;
+  margin: 20px 15px 15px 20px;
+  color: #000;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.ec{
+  color: black;
+}
+
+.bo {
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  background-color: #fff;
+}
+
+.co {
+
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  background-color: #fff;
+
+}
+
+.do {
+  color: black;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 0;
+  background-color: #fff;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #000;
+  border-width: 2px;
+}
+
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;  
+}
+
+#nav-list li {
+  color: #000;
+  text-align: center;
+  font-size: x-small;
+}
+
+#nav-list li:hover {
+  background: #fa8072;
+}
+
+#nav-list li span {
+  font-size: 1.8em;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid #000;
+  
+}
+
+.navbar-header:hover button.navbar-toggle, .navbar-header:hover .icon-bar{
+  border: 2px solid #fff;
+  
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -70px;
+  margin-right: 20px
+}
+
+h2 {
+  text-align: center;
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 45px;
+}
+
+h4{
+  text-align: center;
+  color: #000;
+  font-weight:bold;
+}
+
+p{
+  font-size: 15px;
+  color: #000;
+}
+
+.box {
+  border-style: solid;
+  border-width: 2px;
+  background-color: #9c9995;
+  margin: 30px 30px 30px 30px;
+  padding: 5px 20px 20px 20px;
+}
